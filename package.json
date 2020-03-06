@@ -1,0 +1,25 @@
+{
+  "name": "repco-rca-platform",
+  "version": "1.0.0",
+  "description": "private project for Repco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megaboss77/repco-rca-platform.git"
+  },
+  "author": "NATTAPAT SUTAPAKORN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megaboss77/repco-rca-platform/issues"
+  },
+  "homepage": "https://github.com/megaboss77/repco-rca-platform#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3"
+  }
+}
