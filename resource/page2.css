@@ -1,0 +1,6555 @@
+/*
+	@name page2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_page2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1207px;
+	overflow:hidden;
+}
+
+#_bg__page2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1207px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_868 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1207px;
+}
+
+#group_2447 {
+	top: 169px;
+	left: 480px;
+	width: 961px;
+	height: 977px;
+}
+#group_2441 {
+	top: 250px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424 {
+	top: 204px;
+	left: 77px;
+	width: 192px;
+	height: 0px;
+}
+
+#path_866 {
+	top: 0px;
+	left: 0px;
+	width: 121px;
+	height: 0px;
+}
+
+
+#path_867 {
+	top: 0px;
+	left: 129px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191101074219px;
+}
+
+
+#path_858 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763275146484px;
+}
+
+#group_2458 {
+	top: 500px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek1 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek1 {
+	top: 204px;
+	left: 77px;
+	width: 192px;
+	height: 0px;
+}
+
+#path_866_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 121px;
+	height: 0px;
+}
+
+
+#path_867_ek1 {
+	top: 0px;
+	left: 129px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437_ek1 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek1 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.922790527344px;
+}
+
+
+#path_857_ek1 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek1 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763244628906px;
+}
+
+#group_2445 {
+	top: 0px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek2 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek2 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek2 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.922836303711px;
+}
+
+
+#path_857_ek2 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191116333008px;
+}
+
+
+#path_858_ek2 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763259887695px;
+}
+
+#group_2442 {
+	top: 250px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek3 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek3 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek3 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek3 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek3 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.763275146484px;
+}
+
+#group_2459 {
+	top: 500px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek4 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek4 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek4 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.922790527344px;
+}
+
+
+#path_857_ek4 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek4 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.763244628906px;
+}
+
+#group_2443 {
+	top: 250px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek5 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek2 {
+	top: 204px;
+	left: 206px;
+	width: 63px;
+	height: 0px;
+}
+
+#path_865 {
+	top: 0px;
+	left: 0px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437_ek5 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek5 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek5 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek5 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763275146484px;
+}
+
+#group_2444 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek6 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek6 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek6 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.922836303711px;
+}
+
+
+#path_857_ek6 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191116333008px;
+}
+
+
+#path_858_ek6 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763259887695px;
+}
+
+
+#_ {
+	top: 183px;
+	left: 596px;
+	width: 5px;
+	height: 5px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+#group_2456 {
+	top: 250px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek7 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek3 {
+	top: 204px;
+	left: 206px;
+	width: 63px;
+	height: 0px;
+}
+
+#path_865_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437_ek7 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek7 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek7 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek7 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763275146484px;
+}
+
+#group_2457 {
+	top: 500px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek8 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek4 {
+	top: 204px;
+	left: 206px;
+	width: 63px;
+	height: 0px;
+}
+
+#path_865_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437_ek8 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek8 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.922790527344px;
+}
+
+
+#path_857_ek8 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek8 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763244628906px;
+}
+
+#group_2460 {
+	top: 745px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek9 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek5 {
+	top: 204px;
+	left: 206px;
+	width: 63px;
+	height: 0px;
+}
+
+#path_865_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437_ek9 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek9 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.922790527344px;
+}
+
+
+#path_857_ek9 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek9 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763244628906px;
+}
+
+#group_2461 {
+	top: 745px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek10 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek6 {
+	top: 204px;
+	left: 206px;
+	width: 63px;
+	height: 0px;
+}
+
+#path_865_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437_ek10 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek10 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.922790527344px;
+}
+
+
+#path_857_ek10 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek10 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.763244628906px;
+}
+
+#group_2462 {
+	top: 747px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek11 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek7 {
+	top: 204px;
+	left: 206px;
+	width: 63px;
+	height: 0px;
+}
+
+#path_865_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437_ek11 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek11 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.922790527344px;
+}
+
+
+#path_857_ek11 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek11 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.763244628906px;
+}
+
+#group_2446 {
+	top: 0px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek12 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek8 {
+	top: 204px;
+	left: 77px;
+	width: 192px;
+	height: 0px;
+}
+
+#path_863 {
+	top: 0px;
+	left: 0px;
+	width: 121px;
+	height: 0px;
+}
+
+
+#path_864 {
+	top: 0px;
+	left: 129px;
+	width: 63px;
+	height: 0px;
+}
+
+#group_2437_ek12 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek12 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.922836303711px;
+}
+
+
+#path_857_ek12 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191116333008px;
+}
+
+
+#path_858_ek12 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.763259887695px;
+}
+
+
+#cui {
+	top: 176px;
+	left: 795px;
+	width: 43px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#atmospheric___corrosion {
+	top: 160px;
+	left: 428px;
+	width: 142px;
+	height: 67px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#cooling_water______corrosion {
+	top: 408px;
+	left: 88px;
+	width: 163px;
+	height: 67px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#dealloying {
+	top: 919px;
+	left: 428px;
+	width: 121px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#graphitic_corrosion {
+	top: 919px;
+	left: 730px;
+	width: 212px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#boiler_water__condensate {
+	top: 408px;
+	left: 424px;
+	width: 136px;
+	height: 67px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#galvanic_corrosion {
+	top: 175px;
+	left: 72px;
+	width: 205px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#caustic_corrosion {
+	top: 919px;
+	left: 87px;
+	width: 191px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#co2_corrosion {
+	top: 421px;
+	left: 749px;
+	width: 150px;
+	height: 41px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#flue_gas_dew_point_________corrosion {
+	top: 653px;
+	left: 75px;
+	width: 208px;
+	height: 67px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#__microbiologically_included_corrosion {
+	top: 653px;
+	left: 402px;
+	width: 206px;
+	height: 67px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#soil_corrosion {
+	top: 673px;
+	left: 745px;
+	width: 153px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#rectangle_1261 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 51px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+}
+
+
+#base {
+	top: 6px;
+	left: 2px;
+	width: 283.47192382812px;
+	height: 1080px;
+}
+
+
+#base_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 285.5px;
+	height: 1080px;
+}
+
+
+#logo_rca {
+	top: 35px;
+	left: 25px;
+	width: 234px;
+	height: 110px;
+}
+
+#group_2464 {
+	top: 1046px;
+	left: 97px;
+	width: 88px;
+	height: 4px;
+}
+#group_2463 {
+	top: -0px;
+	left: 0px;
+	width: 88px;
+	height: 4px;
+}
+
+#path_859 {
+	top: 0px;
+	left: 0px;
+	width: 88px;
+	height: 4px;
+}
+
+#group_2454 {
+	top: 964px;
+	left: 108px;
+	width: 68.440277099609px;
+	height: 69.440307617188px;
+}
+#group_2453 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.440307617188px;
+}
+#group_2465 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.440307617188px;
+}
+#component_1___1 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.440307617188px;
+}
+#suqre_button {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.440307617188px;
+}
+
+#ligh {
+	top: -6px;
+	left: -6px;
+	width: 75.845062255859px;
+	height: 76.845031738281px;
+}
+
+
+#dark {
+	top: -1px;
+	left: -1px;
+	width: 75.845054626465px;
+	height: 76.845031738281px;
+}
+
+#group_2452 {
+	top: 2px;
+	left: 2px;
+	width: 63.845062255859px;
+	height: 64.845031738281px;
+}
+
+#main {
+	top: 0px;
+	left: 0px;
+	width: 63.845062255859px;
+	height: 64.845031738281px;
+}
+
+
+#home {
+	top: 0px;
+	left: 4px;
+	width: 60px;
+	height: 60px;
+}
+
+#group_2448 {
+	top: 169px;
+	left: 0px;
+	width: 283.5px;
+	height: 320px;
+}
+#group_285 {
+	top: 59px;
+	left: 0px;
+	width: 283.5px;
+	height: 67.703628540039px;
+}
+
+#base_ek2 {
+	opacity:0.20000000298023;
+	top: 0px;
+	left: 0px;
+	width: 282.5px;
+	height: 65.703628540039px;
+	background:rgba(0,0,0,255);
+}
+
+
+#base_ek3 {
+	top: 66px;
+	left: 0px;
+	width: 281.5px;
+	height: 0px;
+	border: 1px solid #000000;
+	background:rgba(40,55,62,255);
+}
+
+
+#base_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 283.5px;
+	height: 2px;
+	background:rgba(20,23,27,255);
+}
+
+
+#base_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 6.5px;
+	height: 65.703628540039px;
+	background:rgba(150,207,4,255);
+}
+
+#right_arrow {
+	top: 222px;
+	left: 261px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+#group_286 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#path_160 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek1 {
+	top: 287px;
+	left: 261px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+#group_286_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek2 {
+	top: 87px;
+	left: 261px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+#group_286_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek3 {
+	top: 155px;
+	left: 261px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+#group_286_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+
+#uniform_localized_loss_of_thickness {
+	top: 62px;
+	left: 28px;
+	width: 166px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#96cf04;
+}
+
+
+#general_damage {
+	top: 0px;
+	left: 61px;
+	width: 167px;
+	height: 34px;
+	font-family: Segoe UI;
+	font-size: 22px;
+	text-align: left;
+	color:#d9d7d7;
+}
+
+
+#__mechanical_metallurgical {
+	top: 144px;
+	left: 28px;
+	width: 215px;
+	height: 30px;
+	font-family: Segoe UI;
+	font-size: 19px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#__high_temp_corrosion_ {
+	top: 208px;
+	left: 28px;
+	width: 198px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#environment_assisted_cracking {
+	top: 266px;
+	left: 28px;
+	width: 194px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#__ek1 {
+	top: 416px;
+	left: 1167px;
+	width: 5px;
+	height: 5px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#__ek2 {
+	top: 493px;
+	left: 1024px;
+	width: 5px;
+	height: 5px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#rectangle_3 {
+	top: 77px;
+	left: 427px;
+	width: 1062px;
+	height: 64px;
+	-ms-border-radius: 34px;
+	-o-border-radius: 34px;
+	-moz-border-radius: 34px;
+	-webkit-border-radius: 34px;
+	border-radius: 34px;
+	border: 2px solid #3985ff;
+	background:rgba(255,255,255,255);
+}
+
+#group_2455 {
+	top: 32px;
+	left: 1390px;
+	width: 150.95227050781px;
+	height: 150.95223999023px;
+}
+
+#ellipse_1 {
+	top: 0px;
+	left: 0px;
+	width: 150.95227050781px;
+	height: 150.95223999023px;
+	-ms-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-o-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-moz-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-webkit-border-radius: 75.47613525390625px / 75.47613525390625px;
+	border-radius: 75.47613525390625px / 75.47613525390625px;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	background:rgba(24,45,78,255);
+}
+
+#layer_2 {
+	top: 49px;
+	left: 49px;
+	width: 53.366088867188px;
+	height: 53.366027832031px;
+}
+#search {
+	top: 0px;
+	left: 0px;
+	width: 53.366088867188px;
+	height: 53.366027832031px;
+}
+
+#rectangle_2 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 53.366088867188px;
+	height: 53.366027832031px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_3 {
+	top: 6px;
+	left: 7px;
+	width: 39.384033203125px;
+	height: 39.384029388428px;
+}
+
+
+#union_3 {
+	top: 163px;
+	left: 0px;
+	width: 285.49975585938px;
+	height: 50.499893188477px;
+}
+
+#page_page1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1081px;
+	overflow:hidden;
+}
+
+#_bg__page1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1081px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_868_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1261_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 51px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+}
+
+
+#base_ek6 {
+	top: 6px;
+	left: 2px;
+	width: 283.47192382812px;
+	height: 1080px;
+}
+
+
+#base_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 283.47192382812px;
+	height: 1080px;
+}
+
+
+#logo_rca_ek1 {
+	top: 35px;
+	left: 25px;
+	width: 234px;
+	height: 110px;
+}
+
+
+#union_3_ek1 {
+	top: 163px;
+	left: 0px;
+	width: 285.49975585938px;
+	height: 50.499893188477px;
+}
+
+#group_2464_ek1 {
+	top: 1046px;
+	left: 97px;
+	width: 88px;
+	height: 4px;
+}
+#group_2463_ek1 {
+	top: -0px;
+	left: 0px;
+	width: 88px;
+	height: 4px;
+}
+
+#path_859_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 88px;
+	height: 4px;
+}
+
+#group_2454_ek1 {
+	top: 964px;
+	left: 108px;
+	width: 68.440307617188px;
+	height: 69.440307617188px;
+}
+#group_2453_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 68.440307617188px;
+	height: 69.440307617188px;
+}
+#group_2465_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 68.440307617188px;
+	height: 69.440307617188px;
+}
+#component_1___5 {
+	top: 0px;
+	left: 0px;
+	width: 68.440307617188px;
+	height: 69.440307617188px;
+}
+#suqre_button_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 68.440307617188px;
+	height: 69.440307617188px;
+}
+
+#ligh_ek1 {
+	top: -6px;
+	left: -6px;
+	width: 75.845092773438px;
+	height: 76.845031738281px;
+}
+
+
+#dark_ek1 {
+	top: -1px;
+	left: -1px;
+	width: 75.845092773438px;
+	height: 76.845031738281px;
+}
+
+#group_2452_ek1 {
+	top: 2px;
+	left: 2px;
+	width: 63.845092773438px;
+	height: 64.845031738281px;
+}
+
+#main_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 63.845092773438px;
+	height: 64.845031738281px;
+}
+
+
+#home_ek1 {
+	top: 0px;
+	left: 4px;
+	width: 60px;
+	height: 60px;
+}
+
+#group_2448_ek1 {
+	top: 169px;
+	left: 28px;
+	width: 240.08129882812px;
+	height: 320px;
+}
+#right_arrow_ek4 {
+	top: 222px;
+	left: 233px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek5 {
+	top: 287px;
+	left: 233px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek6 {
+	top: 87px;
+	left: 233px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek7 {
+	top: 155px;
+	left: 233px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+
+#__uniform_localized_loss_of_thickness {
+	top: 62px;
+	left: 0px;
+	width: 166px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#general_damage_ek1 {
+	top: 0px;
+	left: 33px;
+	width: 167px;
+	height: 34px;
+	font-family: Segoe UI;
+	font-size: 22px;
+	text-align: left;
+	color:#d9d7d7;
+}
+
+
+#mechanical_metallurgical {
+	top: 144px;
+	left: 0px;
+	width: 215px;
+	height: 30px;
+	font-family: Segoe UI;
+	font-size: 19px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#high_temp_corrosion_ {
+	top: 208px;
+	left: 0px;
+	width: 198px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#__environment_assisted_cracking {
+	top: 266px;
+	left: 0px;
+	width: 194px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#__ek3 {
+	top: 416px;
+	left: 1167px;
+	width: 5px;
+	height: 5px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#__ek4 {
+	top: 493px;
+	left: 1024px;
+	width: 5px;
+	height: 5px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#rectangle_3_ek1 {
+	top: 77px;
+	left: 427px;
+	width: 1062px;
+	height: 64px;
+	-ms-border-radius: 34px;
+	-o-border-radius: 34px;
+	-moz-border-radius: 34px;
+	-webkit-border-radius: 34px;
+	border-radius: 34px;
+	border: 2px solid #3985ff;
+	background:rgba(255,255,255,255);
+}
+
+#group_2455_ek1 {
+	top: 32px;
+	left: 1390px;
+	width: 150.95227050781px;
+	height: 150.95223999023px;
+}
+
+#ellipse_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 150.95227050781px;
+	height: 150.95223999023px;
+	-ms-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-o-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-moz-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-webkit-border-radius: 75.47613525390625px / 75.47613525390625px;
+	border-radius: 75.47613525390625px / 75.47613525390625px;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	background:rgba(24,45,78,255);
+}
+
+#layer_2_ek1 {
+	top: 49px;
+	left: 49px;
+	width: 53.366027832031px;
+	height: 53.366027832031px;
+}
+#search_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 53.366027832031px;
+	height: 53.366027832031px;
+}
+
+#rectangle_2_ek1 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 53.366027832031px;
+	height: 53.366027832031px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_3_ek1 {
+	top: 6px;
+	left: 7px;
+	width: 39.384033203125px;
+	height: 39.384029388428px;
+}
+
+
+#welcome_to_repco_rca_platform___please_select_your_general_damage_mechanism {
+	top: 414px;
+	left: 516px;
+	width: 879px;
+	height: 167px;
+	font-family: Segoe UI;
+	font-size: 40px;
+	text-align: center;
+	color:#516470;
+}
+
+#page_custom___5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__custom___5_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1260 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #566a75;
+	background:rgba(236,236,236,255);
+}
+
+
+#rectangle_1261_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 51px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+}
+
+
+#base_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 283.47192382812px;
+	height: 1080px;
+}
+
+
+#base_ek9 {
+	top: 6px;
+	left: 2px;
+	width: 283.47192382812px;
+	height: 1080px;
+}
+
+
+#logo_rca_ek2 {
+	top: 35px;
+	left: 25px;
+	width: 234px;
+	height: 110px;
+}
+
+
+#path_859_ek2 {
+	top: 1048px;
+	left: 97px;
+	width: 88px;
+	height: 4px;
+}
+
+#group_2447_ek1 {
+	top: 291px;
+	left: 439px;
+	width: 961px;
+	height: 480px;
+}
+#group_2441_ek1 {
+	top: 250px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek13 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek9 {
+	top: 177px;
+	left: 77px;
+	width: 201.99975585938px;
+	height: 27px;
+}
+
+#rectangle_1275 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek13 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek13 {
+	top: 21px;
+	left: 0px;
+	width: 63.2890625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek13 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek13 {
+	top: 0px;
+	left: 12px;
+	width: 60.953857421875px;
+	height: 48.763244628906px;
+}
+
+#group_2445_ek1 {
+	top: 0px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek14 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek10 {
+	top: 177px;
+	left: 77px;
+	width: 201.99975585938px;
+	height: 27px;
+}
+
+#rectangle_1275_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek1 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek1 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek14 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek14 {
+	top: 21px;
+	left: 0px;
+	width: 63.2890625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek14 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191131591797px;
+}
+
+
+#path_858_ek14 {
+	top: 0px;
+	left: 12px;
+	width: 60.953857421875px;
+	height: 48.763275146484px;
+}
+
+#group_2442_ek1 {
+	top: 250px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek15 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek11 {
+	top: 177px;
+	left: 77px;
+	width: 201.99975585938px;
+	height: 27px;
+}
+
+#rectangle_1275_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek2 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek2 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek15 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek15 {
+	top: 21px;
+	left: 0px;
+	width: 63.2890625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek15 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek15 {
+	top: 0px;
+	left: 12px;
+	width: 60.953857421875px;
+	height: 48.763244628906px;
+}
+
+#group_2446_ek1 {
+	top: 0px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek16 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek12 {
+	top: 177px;
+	left: 77px;
+	width: 201.99975585938px;
+	height: 27px;
+}
+
+#rectangle_1275_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek3 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek3 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek16 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek16 {
+	top: 21px;
+	left: 0px;
+	width: 63.2890625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek16 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191131591797px;
+}
+
+
+#path_858_ek16 {
+	top: 0px;
+	left: 12px;
+	width: 60.953857421875px;
+	height: 48.763275146484px;
+}
+
+#group_2443_ek1 {
+	top: 250px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek17 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek13 {
+	top: 177px;
+	left: 77px;
+	width: 201.99975585938px;
+	height: 27px;
+}
+
+#rectangle_1275_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek4 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek4 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek17 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek17 {
+	top: 21px;
+	left: 0px;
+	width: 63.2890625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek17 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191101074219px;
+}
+
+
+#path_858_ek17 {
+	top: 0px;
+	left: 12px;
+	width: 60.953857421875px;
+	height: 48.763244628906px;
+}
+
+#group_2444_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek18 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek14 {
+	top: 177px;
+	left: 77px;
+	width: 201.99975585938px;
+	height: 27px;
+}
+
+#rectangle_1275_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek5 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek5 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek18 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.049377441406px;
+}
+
+#path_856_ek18 {
+	top: 21px;
+	left: 0px;
+	width: 63.2890625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek18 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191131591797px;
+}
+
+
+#path_858_ek18 {
+	top: 0px;
+	left: 12px;
+	width: 60.953857421875px;
+	height: 48.763275146484px;
+}
+
+
+#path_861 {
+	top: 163px;
+	left: 0px;
+	width: 6.5px;
+	height: 20px;
+}
+
+
+#rectangle_1283 {
+	top: 190px;
+	left: 279px;
+	width: 4.5px;
+	height: 18px;
+	border: 1px solid #566a75;
+	background:rgba(86,106,117,255);
+}
+
+
+#path_862 {
+	top: 190px;
+	left: 0px;
+	width: 6.5px;
+	height: 20px;
+}
+
+
+#rectangle_1284 {
+	top: 163px;
+	left: 279px;
+	width: 4.5px;
+	height: 18px;
+	border: 1px solid #566a75;
+	background:rgba(86,106,117,255);
+}
+
+
+#path_860 {
+	top: 163px;
+	left: 0px;
+	width: 20px;
+	height: 6.5px;
+}
+
+
+#rectangle_1288 {
+	top: 207px;
+	left: 265px;
+	width: 18px;
+	height: 4.5px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	border: 1px solid #566a75;
+	background:rgba(86,106,117,255);
+}
+
+
+#rectangle_1286 {
+	top: 204px;
+	left: 0px;
+	width: 18px;
+	height: 4.5px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	border: 1px solid #566a75;
+	background:rgba(86,106,117,255);
+}
+
+
+#rectangle_1285 {
+	top: 163px;
+	left: 265px;
+	width: 18px;
+	height: 4.5px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	border: 1px solid #566a75;
+	background:rgba(86,106,117,255);
+}
+
+#group_2448_ek2 {
+	top: 169px;
+	left: 0px;
+	width: 283.5px;
+	height: 320px;
+}
+#group_285_ek1 {
+	top: 59px;
+	left: 0px;
+	width: 283.5px;
+	height: 67.703628540039px;
+}
+
+#base_ek10 {
+	opacity:0.20000000298023;
+	top: 0px;
+	left: 0px;
+	width: 282.5px;
+	height: 65.703628540039px;
+	background:rgba(0,0,0,255);
+}
+
+
+#base_ek11 {
+	top: 66px;
+	left: 0px;
+	width: 281.5px;
+	height: 0px;
+	border: 1px solid #000000;
+	background:rgba(40,55,62,255);
+}
+
+
+#base_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 283.5px;
+	height: 2px;
+	background:rgba(20,23,27,255);
+}
+
+
+#base_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 6.5px;
+	height: 65.703628540039px;
+	background:rgba(150,207,4,255);
+}
+
+#right_arrow_ek8 {
+	top: 222px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek9 {
+	top: 287px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek10 {
+	top: 87px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek11 {
+	top: 155px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+
+#uniform_localized_loss_of_thickness_ek1 {
+	top: 62px;
+	left: 28px;
+	width: 166px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#96cf04;
+}
+
+
+#general_damage_ek2 {
+	top: 0px;
+	left: 61px;
+	width: 167px;
+	height: 34px;
+	font-family: Segoe UI;
+	font-size: 22px;
+	text-align: left;
+	color:#d9d7d7;
+}
+
+
+#mechanical_metallurgical_ek1 {
+	top: 144px;
+	left: 28px;
+	width: 215px;
+	height: 30px;
+	font-family: Segoe UI;
+	font-size: 19px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#high_temp_corrosion__ek1 {
+	top: 208px;
+	left: 28px;
+	width: 198px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#environment_assisted_cracking_ek1 {
+	top: 266px;
+	left: 28px;
+	width: 194px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+#group_1762 {
+	top: 972px;
+	left: 111px;
+	width: 60px;
+	height: 60px;
+}
+
+#ellipse_12 {
+	opacity:0.63999998569489;
+	top: 3px;
+	left: 3px;
+	width: 58px;
+	height: 58px;
+	-ms-border-radius: 30px / 30px;
+	-o-border-radius: 30px / 30px;
+	-moz-border-radius: 30px / 30px;
+	-webkit-border-radius: 30px / 30px;
+	border-radius: 30px / 30px;
+	border: 1px solid #707070;
+	-ms-box-shadow:-3px -3px 5px 1px rgba(226,226,226,0.41);
+	-o-box-shadow:-3px -3px 5px 1px rgba(226,226,226,0.41);
+	-webkit-box-shadow:-3px -3px 5px 1px rgba(226,226,226,0.41);
+	-moz-box-shadow:-3px -3px 5px 1px rgba(226,226,226,0.41);
+	box-shadow:-3px -3px 5px 1px rgba(226,226,226,0.41);
+	background:rgba(63,85,97,255);
+}
+
+
+#path_194 {
+	top: 22px;
+	left: 21px;
+	width: 21.151611328125px;
+	height: 18.308349609375px;
+}
+
+
+#rectangle_3_ek2 {
+	top: 130px;
+	left: 427px;
+	width: 1062px;
+	height: 82px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	border: 2px solid #3985ff;
+	background:rgba(255,255,255,255);
+}
+
+#group_2455_ek2 {
+	top: 98px;
+	left: 1389px;
+	width: 150.9521484375px;
+	height: 150.95223999023px;
+}
+
+#ellipse_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 150.9521484375px;
+	height: 150.95223999023px;
+	-ms-border-radius: 75.47607421875px / 75.47607421875px;
+	-o-border-radius: 75.47607421875px / 75.47607421875px;
+	-moz-border-radius: 75.47607421875px / 75.47607421875px;
+	-webkit-border-radius: 75.47607421875px / 75.47607421875px;
+	border-radius: 75.47607421875px / 75.47607421875px;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	background:rgba(24,45,78,255);
+}
+
+#layer_2_ek2 {
+	top: 49px;
+	left: 49px;
+	width: 53.365966796875px;
+	height: 53.366027832031px;
+}
+#search_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 53.365966796875px;
+	height: 53.366027832031px;
+}
+
+#rectangle_2_ek2 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 53.365966796875px;
+	height: 53.366027832031px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_3_ek2 {
+	top: 6px;
+	left: 7px;
+	width: 39.384033203125px;
+	height: 39.38402557373px;
+}
+
+#page_page3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__page3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1260_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #566a75;
+	background:rgba(236,236,236,255);
+}
+
+
+#rectangle_1261_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 51px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+}
+
+
+#base_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 283.47192382812px;
+	height: 1080px;
+}
+
+
+#base_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 285.5px;
+	height: 1080px;
+}
+
+
+#logo_rca_ek3 {
+	top: 35px;
+	left: 25px;
+	width: 234px;
+	height: 110px;
+}
+
+
+#path_859_ek3 {
+	top: 1048px;
+	left: 97px;
+	width: 88px;
+	height: 4px;
+}
+
+#group_2447_ek2 {
+	top: 291px;
+	left: 439px;
+	width: 961px;
+	height: 480px;
+}
+#group_2441_ek2 {
+	top: 250px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek19 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek15 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek6 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek6 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek19 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek19 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek19 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek19 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2445_ek2 {
+	top: 0px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek20 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek16 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek7 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek7 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek20 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek20 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.922729492188px;
+}
+
+
+#path_857_ek20 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191040039062px;
+}
+
+
+#path_858_ek20 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2442_ek2 {
+	top: 250px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek21 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek17 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek8 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek8 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek21 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek21 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek21 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek21 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.76318359375px;
+}
+
+#group_2446_ek2 {
+	top: 0px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek22 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek18 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek9 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek9 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek22 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek22 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.922729492188px;
+}
+
+
+#path_857_ek22 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191040039062px;
+}
+
+
+#path_858_ek22 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.76318359375px;
+}
+
+#group_2443_ek2 {
+	top: 250px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek23 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek19 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek10 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek10 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek23 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek23 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek23 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek23 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2444_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek24 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek24 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek24 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek20 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek11 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek11 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek24 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek24 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.922729492188px;
+}
+
+
+#path_857_ek24 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191040039062px;
+}
+
+
+#path_858_ek24 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2454_ek2 {
+	top: 964px;
+	left: 108px;
+	width: 68.440277099609px;
+	height: 69.4404296875px;
+}
+#group_2453_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.4404296875px;
+}
+#component_1___2 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.440185546875px;
+}
+#suqre_button_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.440185546875px;
+}
+
+#ligh_ek2 {
+	top: -6px;
+	left: -6px;
+	width: 75.845062255859px;
+	height: 76.844970703125px;
+}
+
+
+#dark_ek2 {
+	top: -1px;
+	left: -1px;
+	width: 75.845054626465px;
+	height: 76.844970703125px;
+}
+
+#group_2452_ek2 {
+	top: 2px;
+	left: 2px;
+	width: 63.845062255859px;
+	height: 64.844970703125px;
+}
+
+#main_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 63.845062255859px;
+	height: 64.844970703125px;
+}
+
+
+#home_ek2 {
+	top: 0px;
+	left: 4px;
+	width: 60px;
+	height: 60px;
+}
+
+#group_2448_ek3 {
+	top: 169px;
+	left: 0px;
+	width: 283.5px;
+	height: 320px;
+}
+#group_285_ek2 {
+	top: 127px;
+	left: 0px;
+	width: 283.5px;
+	height: 67.70361328125px;
+}
+
+#base_ek16 {
+	opacity:0.20000000298023;
+	top: 0px;
+	left: 0px;
+	width: 282.5px;
+	height: 65.70361328125px;
+	background:rgba(0,0,0,255);
+}
+
+
+#base_ek17 {
+	top: 66px;
+	left: 0px;
+	width: 281.5px;
+	height: 0px;
+	border: 1px solid #000000;
+	background:rgba(40,55,62,255);
+}
+
+
+#base_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 283.5px;
+	height: 2px;
+	background:rgba(20,23,27,255);
+}
+
+
+#base_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 6.5px;
+	height: 65.70361328125px;
+	background:rgba(150,207,4,255);
+}
+
+#right_arrow_ek12 {
+	top: 222px;
+	left: 261px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+#group_286_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek13 {
+	top: 287px;
+	left: 261px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+#group_286_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek14 {
+	top: 87px;
+	left: 261px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+#group_286_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek15 {
+	top: 155px;
+	left: 261px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+#group_286_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 6.7050933837891px;
+	height: 11.4130859375px;
+}
+
+
+#__uniform_localized_loss_of_thickness_ek1 {
+	top: 62px;
+	left: 28px;
+	width: 166px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#general_damage_ek3 {
+	top: 0px;
+	left: 61px;
+	width: 167px;
+	height: 34px;
+	font-family: Segoe UI;
+	font-size: 22px;
+	text-align: left;
+	color:#d9d7d7;
+}
+
+
+#mechanical_metallurgical_ek2 {
+	top: 144px;
+	left: 28px;
+	width: 215px;
+	height: 30px;
+	font-family: Segoe UI;
+	font-size: 19px;
+	text-align: left;
+	color:#96cf04;
+}
+
+
+#__high_temp_corrosion__ek1 {
+	top: 208px;
+	left: 28px;
+	width: 198px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#__environment_assisted_cracking_ek1 {
+	top: 266px;
+	left: 28px;
+	width: 194px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#rectangle_3_ek3 {
+	top: 130px;
+	left: 427px;
+	width: 1062px;
+	height: 82px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	border: 2px solid #3985ff;
+	background:rgba(255,255,255,255);
+}
+
+#group_2455_ek3 {
+	top: 98px;
+	left: 1389px;
+	width: 150.95227050781px;
+	height: 150.95227050781px;
+}
+
+#ellipse_1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 150.95227050781px;
+	height: 150.95227050781px;
+	-ms-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-o-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-moz-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-webkit-border-radius: 75.47613525390625px / 75.47613525390625px;
+	border-radius: 75.47613525390625px / 75.47613525390625px;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	background:rgba(24,45,78,255);
+}
+
+#layer_2_ek3 {
+	top: 49px;
+	left: 49px;
+	width: 53.366088867188px;
+	height: 53.365966796875px;
+}
+#search_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 53.366088867188px;
+	height: 53.365966796875px;
+}
+
+#rectangle_2_ek3 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 53.366088867188px;
+	height: 53.365966796875px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_3_ek3 {
+	top: 6px;
+	left: 7px;
+	width: 39.384033203125px;
+	height: 39.383911132812px;
+}
+
+
+#union_3_ek2 {
+	top: 163px;
+	left: 0px;
+	width: 285.49975585938px;
+	height: 50.499877929688px;
+}
+
+#page_page4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__page4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1260_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #566a75;
+	background:rgba(236,236,236,255);
+}
+
+
+#rectangle_1261_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 51px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+}
+
+
+#base_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 283.47192382812px;
+	height: 1080px;
+}
+
+
+#base_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 285.5px;
+	height: 1080px;
+}
+
+
+#logo_rca_ek4 {
+	top: 35px;
+	left: 25px;
+	width: 234px;
+	height: 110px;
+}
+
+
+#path_859_ek4 {
+	top: 1048px;
+	left: 97px;
+	width: 88px;
+	height: 4px;
+}
+
+#group_2447_ek3 {
+	top: 291px;
+	left: 439px;
+	width: 961px;
+	height: 480px;
+}
+#group_2441_ek3 {
+	top: 250px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek25 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek25 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek25 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek21 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek12 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek12 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek25 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek25 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek25 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek25 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2445_ek3 {
+	top: 0px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek26 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek26 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek26 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek22 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek13 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek13 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek26 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek26 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek26 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek26 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2442_ek3 {
+	top: 250px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek27 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek27 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek27 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek23 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek14 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek14 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek27 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek27 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek27 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek27 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.76318359375px;
+}
+
+#group_2446_ek3 {
+	top: 0px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek28 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek28 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek28 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek24 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek15 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek15 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek28 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek28 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek28 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek28 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.76318359375px;
+}
+
+#group_2443_ek3 {
+	top: 250px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek29 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek29 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek29 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek25 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek16 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek16 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek29 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek29 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek29 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek29 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2444_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek30 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek30 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek30 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek26 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek17 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek17 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek30 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek30 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek30 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.191162109375px;
+}
+
+
+#path_858_ek30 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2454_ek3 {
+	top: 964px;
+	left: 108px;
+	width: 68.440277099609px;
+	height: 69.4404296875px;
+}
+#group_2453_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.4404296875px;
+}
+#component_1___3 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.440185546875px;
+}
+#suqre_button_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.440185546875px;
+}
+
+#ligh_ek3 {
+	top: -6px;
+	left: -6px;
+	width: 75.845062255859px;
+	height: 76.844970703125px;
+}
+
+
+#dark_ek3 {
+	top: -1px;
+	left: -1px;
+	width: 75.845054626465px;
+	height: 76.844970703125px;
+}
+
+#group_2452_ek3 {
+	top: 2px;
+	left: 2px;
+	width: 63.845062255859px;
+	height: 64.844970703125px;
+}
+
+#main_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 63.845062255859px;
+	height: 64.844970703125px;
+}
+
+
+#home_ek3 {
+	top: 0px;
+	left: 4px;
+	width: 60px;
+	height: 60px;
+}
+
+#group_2448_ek4 {
+	top: 169px;
+	left: 0px;
+	width: 283.5px;
+	height: 320px;
+}
+#group_285_ek3 {
+	top: 191px;
+	left: 0px;
+	width: 283.5px;
+	height: 67.70361328125px;
+}
+
+#base_ek22 {
+	opacity:0.20000000298023;
+	top: 0px;
+	left: 0px;
+	width: 282.5px;
+	height: 65.70361328125px;
+	background:rgba(0,0,0,255);
+}
+
+
+#base_ek23 {
+	top: 66px;
+	left: 0px;
+	width: 281.5px;
+	height: 0px;
+	border: 1px solid #000000;
+	background:rgba(40,55,62,255);
+}
+
+
+#base_ek24 {
+	top: 0px;
+	left: 0px;
+	width: 283.5px;
+	height: 2px;
+	background:rgba(20,23,27,255);
+}
+
+
+#base_ek25 {
+	top: 0px;
+	left: 0px;
+	width: 6.5px;
+	height: 65.70361328125px;
+	background:rgba(150,207,4,255);
+}
+
+#right_arrow_ek16 {
+	top: 222px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek17 {
+	top: 287px;
+	left: 261px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+#group_286_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek18 {
+	top: 87px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek19 {
+	top: 155px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+
+#__uniform_localized_loss_of_thickness_ek2 {
+	top: 62px;
+	left: 28px;
+	width: 166px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#general_damage_ek4 {
+	top: 0px;
+	left: 61px;
+	width: 167px;
+	height: 34px;
+	font-family: Segoe UI;
+	font-size: 22px;
+	text-align: left;
+	color:#d9d7d7;
+}
+
+
+#__mechanical_metallurgical_ek1 {
+	top: 144px;
+	left: 28px;
+	width: 215px;
+	height: 30px;
+	font-family: Segoe UI;
+	font-size: 19px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#high_temp_corrosion__ek2 {
+	top: 208px;
+	left: 28px;
+	width: 198px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#96cf04;
+}
+
+
+#__environment_assisted_cracking_ek2 {
+	top: 266px;
+	left: 28px;
+	width: 194px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#rectangle_3_ek4 {
+	top: 130px;
+	left: 427px;
+	width: 1062px;
+	height: 82px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	border: 2px solid #3985ff;
+	background:rgba(255,255,255,255);
+}
+
+#group_2455_ek4 {
+	top: 98px;
+	left: 1389px;
+	width: 150.95227050781px;
+	height: 150.9521484375px;
+}
+
+#ellipse_1_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 150.95227050781px;
+	height: 150.9521484375px;
+	-ms-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-o-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-moz-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-webkit-border-radius: 75.47613525390625px / 75.47613525390625px;
+	border-radius: 75.47613525390625px / 75.47613525390625px;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	background:rgba(24,45,78,255);
+}
+
+#layer_2_ek4 {
+	top: 49px;
+	left: 49px;
+	width: 53.366088867188px;
+	height: 53.365966796875px;
+}
+#search_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 53.366088867188px;
+	height: 53.365966796875px;
+}
+
+#rectangle_2_ek4 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 53.366088867188px;
+	height: 53.365966796875px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_3_ek4 {
+	top: 6px;
+	left: 7px;
+	width: 39.384033203125px;
+	height: 39.384033203125px;
+}
+
+
+#union_3_ek3 {
+	top: 163px;
+	left: 0px;
+	width: 285.49975585938px;
+	height: 50.5px;
+}
+
+#page_page5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__page5_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1260_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #566a75;
+	background:rgba(236,236,236,255);
+}
+
+
+#rectangle_1261_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 51px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,255) 0%, rgba(29,12,12,255) 22%, rgba(125,52,52,255) 100%);
+}
+
+
+#base_ek26 {
+	top: 0px;
+	left: 0px;
+	width: 283.47192382812px;
+	height: 1080px;
+}
+
+
+#base_ek27 {
+	top: 0px;
+	left: -2px;
+	width: 287.52807617188px;
+	height: 1080px;
+}
+
+
+#logo_rca_ek5 {
+	top: 35px;
+	left: 25px;
+	width: 234px;
+	height: 110px;
+}
+
+
+#path_859_ek5 {
+	top: 1048px;
+	left: 97px;
+	width: 88px;
+	height: 4px;
+}
+
+#group_2447_ek4 {
+	top: 291px;
+	left: 439px;
+	width: 961px;
+	height: 480px;
+}
+#group_2441_ek4 {
+	top: 250px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek31 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek31 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek31 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek27 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek18 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek18 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek31 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek31 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek31 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.19091796875px;
+}
+
+
+#path_858_ek31 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2445_ek4 {
+	top: 0px;
+	left: 327px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek32 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek32 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek32 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek28 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek19 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek19 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek32 {
+	top: 57px;
+	left: 117px;
+	width: 73.142578125px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek32 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek32 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.19091796875px;
+}
+
+
+#path_858_ek32 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2442_ek4 {
+	top: 250px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek33 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek33 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek33 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek29 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek20 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek20 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek33 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek33 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek33 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.19091796875px;
+}
+
+
+#path_858_ek33 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.76318359375px;
+}
+
+#group_2446_ek4 {
+	top: 0px;
+	left: 654px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek34 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek34 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek34 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek30 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek21 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek21 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek34 {
+	top: 57px;
+	left: 117px;
+	width: 73.142700195312px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek34 {
+	top: 21px;
+	left: 0px;
+	width: 63.289306640625px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek34 {
+	top: 9px;
+	left: 21px;
+	width: 12.1904296875px;
+	height: 12.19091796875px;
+}
+
+
+#path_858_ek34 {
+	top: 0px;
+	left: 12px;
+	width: 60.953735351562px;
+	height: 48.76318359375px;
+}
+
+#group_2443_ek4 {
+	top: 250px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek35 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek35 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek35 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek31 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek22 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek22 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek35 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek35 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek35 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.19091796875px;
+}
+
+
+#path_858_ek35 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2444_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+}
+
+#rectangle_1278_ek36 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 230px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,255);
+}
+
+
+#_462430_baseball_san_francisco_san_francisco_giants_att_park_748x421_ek36 {
+	top: 0px;
+	left: 0px;
+	width: 307px;
+	height: 153px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(237,237,237,0);
+}
+
+
+#rectangle_1267_ek36 {
+	top: 171px;
+	left: 20px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2424_ek32 {
+	top: 177px;
+	left: 77px;
+	width: 202px;
+	height: 27px;
+}
+
+#rectangle_1275_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 202px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1268_ek23 {
+	top: 18px;
+	left: 0px;
+	width: 121px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rectangle_1269_ek23 {
+	top: 18px;
+	left: 129px;
+	width: 63px;
+	height: 9px;
+	background:rgba(242,242,242,255);
+}
+
+#group_2437_ek36 {
+	top: 57px;
+	left: 117px;
+	width: 73.142639160156px;
+	height: 67.04931640625px;
+}
+
+#path_856_ek36 {
+	top: 21px;
+	left: 0px;
+	width: 63.289245605469px;
+	height: 45.9228515625px;
+}
+
+
+#path_857_ek36 {
+	top: 9px;
+	left: 21px;
+	width: 12.190551757812px;
+	height: 12.19091796875px;
+}
+
+
+#path_858_ek36 {
+	top: 0px;
+	left: 12px;
+	width: 60.953796386719px;
+	height: 48.76318359375px;
+}
+
+#group_2454_ek4 {
+	top: 964px;
+	left: 108px;
+	width: 68.440277099609px;
+	height: 69.4404296875px;
+}
+#group_2453_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.4404296875px;
+}
+#component_1___4 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.4404296875px;
+}
+#suqre_button_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 68.440277099609px;
+	height: 69.4404296875px;
+}
+
+#ligh_ek4 {
+	top: -6px;
+	left: -6px;
+	width: 75.845062255859px;
+	height: 76.84521484375px;
+}
+
+
+#dark_ek4 {
+	top: -1px;
+	left: -1px;
+	width: 75.845054626465px;
+	height: 76.84521484375px;
+}
+
+#group_2452_ek4 {
+	top: 2px;
+	left: 2px;
+	width: 63.845062255859px;
+	height: 64.8447265625px;
+}
+
+#main_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 63.845062255859px;
+	height: 64.84521484375px;
+}
+
+
+#home_ek4 {
+	top: 0px;
+	left: 4px;
+	width: 60px;
+	height: 60px;
+}
+
+#group_2448_ek5 {
+	top: 169px;
+	left: 0px;
+	width: 283.5px;
+	height: 326.70361328125px;
+}
+#group_285_ek4 {
+	top: 259px;
+	left: 0px;
+	width: 283.5px;
+	height: 67.70361328125px;
+}
+
+#base_ek28 {
+	opacity:0.20000000298023;
+	top: 0px;
+	left: 0px;
+	width: 282.5px;
+	height: 65.70361328125px;
+	background:rgba(0,0,0,255);
+}
+
+
+#base_ek29 {
+	top: 66px;
+	left: 0px;
+	width: 281.5px;
+	height: 0px;
+	border: 1px solid #000000;
+	background:rgba(40,55,62,255);
+}
+
+
+#base_ek30 {
+	top: 0px;
+	left: 0px;
+	width: 283.5px;
+	height: 2px;
+	background:rgba(20,23,27,255);
+}
+
+
+#base_ek31 {
+	top: 0px;
+	left: 0px;
+	width: 6.5px;
+	height: 65.70361328125px;
+	background:rgba(150,207,4,255);
+}
+
+#right_arrow_ek20 {
+	top: 222px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek21 {
+	top: 287px;
+	left: 261px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+#group_286_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 6.7051086425781px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek22 {
+	top: 87px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#right_arrow_ek23 {
+	top: 155px;
+	left: 261px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+#group_286_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+#path_160_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 6.705078125px;
+	height: 11.4130859375px;
+}
+
+
+#__uniform_localized_loss_of_thickness_ek3 {
+	top: 62px;
+	left: 28px;
+	width: 166px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#general_damage_ek5 {
+	top: 0px;
+	left: 61px;
+	width: 167px;
+	height: 34px;
+	font-family: Segoe UI;
+	font-size: 22px;
+	text-align: left;
+	color:#d9d7d7;
+}
+
+
+#mechanical_metallurgical_ek3 {
+	top: 144px;
+	left: 28px;
+	width: 215px;
+	height: 30px;
+	font-family: Segoe UI;
+	font-size: 19px;
+	text-align: left;
+	color:#566a75;
+}
+
+
+#__high_temp_corrosion__ek2 {
+	top: 208px;
+	left: 28px;
+	width: 198px;
+	height: 31px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#516470;
+}
+
+
+#environment_assisted_cracking_ek2 {
+	top: 266px;
+	left: 28px;
+	width: 194px;
+	height: 58px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	color:#96cf04;
+}
+
+
+#rectangle_3_ek5 {
+	top: 130px;
+	left: 427px;
+	width: 1062px;
+	height: 82px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	border: 2px solid #3985ff;
+	background:rgba(255,255,255,255);
+}
+
+#group_2455_ek5 {
+	top: 98px;
+	left: 1389px;
+	width: 150.95227050781px;
+	height: 150.9521484375px;
+}
+
+#ellipse_1_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 150.95227050781px;
+	height: 150.9521484375px;
+	-ms-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-o-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-moz-border-radius: 75.47613525390625px / 75.47613525390625px;
+	-webkit-border-radius: 75.47613525390625px / 75.47613525390625px;
+	border-radius: 75.47613525390625px / 75.47613525390625px;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.26);
+	background:rgba(24,45,78,255);
+}
+
+#layer_2_ek5 {
+	top: 49px;
+	left: 49px;
+	width: 53.366088867188px;
+	height: 53.3662109375px;
+}
+#search_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 53.366088867188px;
+	height: 53.3662109375px;
+}
+
+#rectangle_2_ek5 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 53.366088867188px;
+	height: 53.3662109375px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_3_ek5 {
+	top: 6px;
+	left: 7px;
+	width: 39.384033203125px;
+	height: 39.3837890625px;
+}
+
+
+#union_3_ek4 {
+	top: 163px;
+	left: 0px;
+	width: 285.49975585938px;
+	height: 50.5px;
+}
+
+
+
+/* Add your custom CSS here */
