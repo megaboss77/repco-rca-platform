@@ -12,7 +12,7 @@ app.get('/',(req,res)=>{
 })
 
 
-//bodyparser middleware
+
 // app.get('/', (req, res) => {
 //     res.sendFile(__dirname + '/resource/index.html');
 // })
@@ -23,8 +23,12 @@ app.get('/aof', (req, res) => {
 app.get('/page1', (req, res) => {
         res.sendFile(__dirname + '/resource/page1.html');
     })
-    //bodyparser middleware
+
+    
 app.use(bodyParser.json());
+
+//use for loading static page to support css 
+app.use(express.static(__dirname));
 
 const port = process.env.PORT || 8080;
 
