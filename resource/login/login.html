@@ -63,6 +63,14 @@
       border: 1px solid #ccc;
     }
 
+    #my-form input[type='password'] {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+
     .btn {
       display: block;
       width: 100%;
@@ -106,8 +114,18 @@
         <input type="text" id="name">
       </div>
       <div>
-        <label for="email">Password:</label>
-        <input type="text" id="email">
+        <label for="pass">Password:</label>
+        <input type="password" id="pass">
+        <!-- An element to toggle between password visibility -->
+        <input type="checkbox" onclick="myFunction()"> Show Password
+        <script>function myFunction() {
+            var x = document.getElementById("pass");
+            if (x.type === "password") {
+              x.type = "text";
+            } else {
+              x.type = "password";
+            }
+          }</script>
       </div>
       <input class="btn" type="submit" value="Submit">
     </form>
@@ -122,7 +140,7 @@
       // Put DOM elements into variables
       const myForm = document.querySelector('#my-form');
       const nameInput = document.querySelector('#name');
-      const emailInput = document.querySelector('#email');
+      const passInput = document.querySelector('#pass');
       const msg = document.querySelector('.msg');
       const userList = document.querySelector('#users');
 
@@ -132,11 +150,11 @@
       function onSubmit(e) {
         let input = {
           id: nameInput.value,
-          pw: emailInput.value
+          pw: passInput.value
         };
         console.log(input);
         e.preventDefault();
-        if (nameInput.value === '' || emailInput.value === '') {
+        if (nameInput.value === '' || passInput.value === '') {
           // alert('Please enter all fields');
           msg.classList.add('error');
           msg.innerHTML = 'Please enter all fields';
@@ -153,7 +171,7 @@
         }
         // Clear fields
         nameInput.value = '';
-        emailInput.value = '';
+        passInput.value = '';
       }
 
     </script>
