@@ -3,9 +3,14 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
-app.get('/',(req,res)=>{
+app.get('/home',(req,res)=>{
     res.sendFile(__dirname+'/resource/index.html');
 })
+
+app.get('/',(req,res)=>{
+    res.sendFile(__dirname+'/resource/login/login.html');
+})
+
 
 //bodyparser middleware
 app.use(bodyParser.json());
