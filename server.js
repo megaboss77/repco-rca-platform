@@ -7,6 +7,10 @@ app.get('/',(req,res)=>{
     res.sendFile(__dirname+'/resource/index.html');
 })
 
+app.get('/aof',(req,res)=>{
+    res.sendFile(__dirname+'/resource/aof.html');
+})
+
 //bodyparser middleware
 app.use(bodyParser.json());
 
