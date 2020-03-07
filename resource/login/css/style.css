@@ -24,10 +24,17 @@
   }
   
   header {
-    background:red;
+    background:rgb(241, 38, 38);
     padding: 1rem;
     text-align: center;
     color: white;
+    text-decoration:none
+  }
+
+  .title {
+    text-align: center;
+    color: white;
+    text-decoration:none
   }
   
   .container {
