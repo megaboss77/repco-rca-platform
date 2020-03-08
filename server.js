@@ -12,17 +12,12 @@ app.get('/',(req,res)=>{
 })
 
 
-
-// app.get('/', (req, res) => {
-//     res.sendFile(__dirname + '/resource/index.html');
-// })
-
-app.get('/aof', (req, res) => {
-    res.sendFile(__dirname + '/resource/aof.html');
-})
-app.get('/page1', (req, res) => {
-        res.sendFile(__dirname + '/resource/page1.html');
-    })
+//routing to internal page
+app.get('/:page',(req,res)=>{
+    let page = req.params.page;
+    res.sendFile(__dirname+'/resource/'+page);
+  })
+      
 
     
 app.use(bodyParser.json());
