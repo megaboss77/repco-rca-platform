@@ -38,6 +38,12 @@
             zoom: 80%;
         }
         
+        body {
+            margin: 0;
+            padding: 0;
+            background: #ECECEC;
+        }
+        
         @keyframes fadein {
             0% {
                 opacity: 0;
@@ -1134,6 +1140,43 @@
             color: rgba(86, 106, 117, 1);
         }
         
+        #__link_Page2_html__Uniform_Loc:hover {
+            background-position: center;
+            color: rgb(138, 160, 186);
+            transform: scale(1.1);
+        }
+        
+        #__link_Page4_html__High_Temp_C:hover {
+            background-position: center;
+            color: rgb(138, 160, 186);
+            transform: scale(1.1);
+        }
+        
+        #__link_Page5_html__Environment:hover {
+            background-position: center;
+            color: rgb(138, 160, 186);
+            transform: scale(1.1);
+        }
+        
+        .mytext {
+            position: relative;
+            overflow: visible;
+            width: 800px;
+            height: 50px;
+            left: 67px;
+            top: 6px;
+            font-family: Segoe UI;
+            font-size: 25px;
+            /* border: 0px none; */
+            border-width: 0px;
+            border: none;
+        }
+        
+        textarea:focus,
+        input:focus {
+            outline: none;
+        }
+        
         .Rectangle_3 {
             position: absolute;
             overflow: visible;
@@ -1141,6 +1184,25 @@
             height: 86px;
             left: 427px;
             top: 130px;
+        }
+        
+        .mytext {
+            position: relative;
+            overflow: visible;
+            width: 800px;
+            height: 50px;
+            left: 67px;
+            top: 6px;
+            font-family: Segoe UI;
+            font-size: 25px;
+            /* border: 0px none; */
+            border-width: 0px;
+            border: none;
+        }
+        
+        textarea:focus,
+        input:focus {
+            outline: none;
         }
         
         #Group_2455 {
@@ -3954,7 +4016,12 @@
         <svg class="Rectangle_3">
 		<rect fill="rgba(255,255,255,1)" stroke="rgba(57,133,255,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_3" rx="38" ry="38" x="0" y="0" width="1066" height="86">
 		</rect>
-	</svg>
+    </svg>
+        <div class="Rectangle_3">
+            <form>
+                <input type="text" id="text" name="text_name" class="mytext" />
+            </form>
+        </div>
         <div id="Group_2455">
             <svg class="Ellipse_1">
 			<ellipse fill="rgba(24,45,78,1)" id="Ellipse_1" rx="53.5" ry="53.5" cx="53.5" cy="53.5">
